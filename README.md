@@ -1,5 +1,7 @@
 # gulp 构建工具
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zh-rocco/gulp-tool.svg)](https://greenkeeper.io/)
+
 ## 一、构建过程:
 
 ```bash
